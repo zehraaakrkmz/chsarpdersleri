@@ -1,0 +1,8 @@
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\bin\Debug\02c#yt.exe.config
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\bin\Debug\02c#yt.exe
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\bin\Debug\02c#yt.pdb
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\obj\Debug\02c#yt.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\obj\Debug\02c#yt.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\obj\Debug\02c#yt.exe
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\obj\Debug\02c#yt.pdb
+C:\Users\Zehra\source\repos\02c#yt\02c#yt\obj\Debug\02c#yt.exe.config
